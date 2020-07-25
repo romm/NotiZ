@@ -22,8 +22,7 @@
     }
   ],
   "require": {
-    "typo3/cms-core": "^8.7.0 || ^9.5.17",
-    "romm/configuration-object": "^1.10 || ^2.0"
+    "typo3/cms-core": "^8.7.0 || ^9.5.17"
   },
   "require-dev": {
     "phpunit/phpunit": "^4.7 || ^5.6",
